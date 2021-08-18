@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Haruka BOT
+- haruka is a discord.js bot made using node.js and javascript!
+- this bot is made by `~lunar#0001` on discord. Please give me credit if you want to use this bot!
+- add me on Discord for help.
 
-You can use the [editor on GitHub](https://github.com/LuminaXI/haruweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## How to install Haruka!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Windows
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. go to the [Haruka!](https://github.com/LuminaXI/kyouu-chan).
+2. download the latest release.
+3. extract the .ZIP file into your desktop
+4. `cd` into your bot file.
+5. type `npm i` into your powershell terminal.
+6. create the `.env` file and paste this into it 
+```javascript
+TOKEN = TOKEN_HERE
+PREFIX = !!
 ```
+7. type `nodemon` or `node .` to run your bot!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Linux
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuminaXI/haruweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. go to the [Haruka!](https://github.com/LuminaXI/haruka
+2. download the latest release.
+3. extract the .ZIP file into your desktop folder.
+4. `cd` into your bot file.
+5. type `npm i` into your terminal.
+6. create the `.env` file and paste this into it.
+```javascript
+TOKEN = TOKEN_HERE
+PREFIX = !!
+```
+7. type `nodemon` or `node .` to run your bot!
